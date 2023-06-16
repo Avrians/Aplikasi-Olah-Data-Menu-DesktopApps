@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AplikasiOlahDataMenu">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/AplikasiOlahDataMenu.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
